@@ -7,5 +7,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Logcat Viewer"
-include ':app'
 include ':LogViewer'
